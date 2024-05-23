@@ -1,5 +1,6 @@
 import {Row,Col} from 'react-bootstrap'
 import Photo from './child/HeaderPhoto'
+import '../css/Header.css'
 
 const Header = () => {
   return (

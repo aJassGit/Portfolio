@@ -6,6 +6,7 @@ import iconJS from "../assets/icons/icon-js.png"
 import iconLara from "../assets/icons/icon-lara.png"
 import iconPhp from "../assets/icons/icon-php.png"
 import iconPython from "../assets/icons/icon-python.png"
+import '../css/Main.css'
 
 const Main = (props) => {
   return (

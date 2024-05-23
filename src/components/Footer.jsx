@@ -2,6 +2,7 @@ import {Row,Col} from 'react-bootstrap'
 import { FaFacebook } from "react-icons/fa";
 import { FaWhatsappSquare } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
+import '../css/Footer.css'
 
 const Footer = () => {
 

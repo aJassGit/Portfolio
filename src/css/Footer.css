@@ -1,0 +1,29 @@
+.footer {
+    background-color: #378fc9;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    height: 100px;
+}
+.col-div {
+    height: 100px;
+}
+.icono {
+    font-size: 55px;
+    margin: 1px;
+}
+.fb-icon {
+    color: #0051ff;
+    
+    border: 1px black solid;
+    border-radius: 125%;
+    background-color: white;
+}
+.wp-icon {
+    color: #11d659;
+}
+.mail-icon {
+    color: #0f0f0f;
+}
+.fb-icon:hover, .wp-icon:hover, .mail-icon:hover {
+    opacity: 0.6;
+}

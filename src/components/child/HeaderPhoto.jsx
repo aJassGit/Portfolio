@@ -1,4 +1,6 @@
 import Profile from '../../assets/profile.jpeg'
+import '../../css/Header.css'
+
 
 const HeaderPhoto = () => {
   return (
